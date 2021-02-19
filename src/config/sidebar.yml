@@ -1,0 +1,58 @@
+# Sidebar navigation
+
+- label: 'Presentación'
+  link: '/'
+- label: 'Generalidades'
+  items:
+    - label: 'Conceptos básicos'
+      link: '/generalidades/conceptos-basicos'
+    - label: 'Marco legal'
+      link: '/generalidades/marco-legal'
+    - label: 'Estructura básica'
+      link: '/generalidades/estructura-basica'
+- label: 'Estructura financiera'
+  items:
+    - label: 'Estado de situación financiera'
+      link: '/estructura-financiera/estado-situacion-financiera'
+    - label: 'Estado de resultados'
+      link: '/estructura-financiera/estado-resultados'
+    - label: 'Activo, pasivo y capital'
+      link: '/estructura-financiera/activo-pasivo-capital'
+- label: 'Mercancías'
+  items:
+    - label: 'Procedimiento global'
+      link: '/mercancias/procedimiento-global'
+    - label: 'Procedimiento analítico'
+      link: '/mercancias/procedimiento-analitico'
+    - label: 'Inventarios perpetuos'
+      link: '/mercancias/inventarios-perpetuos'
+- label: 'Libros contables'
+  items:
+    - label: 'Diario continental'
+      link: '/libros-contables/diario-continental'
+    - label: 'Diario tabular'
+      link: '/libros-contables/diario-tabular'
+    - label: 'Método de pólizas'
+      link: '/libros-contables/metodo-polizas'
+- label: 'Costo de ventas'
+  items:
+    - label: 'Métodos de valuación'
+      link: '/costo-ventas/valuacion'
+- label: Hoja de trabajo
+  items:
+    - label: 'Ajustes'
+      link: '/hoja-trabajo/ajustes'
+    - label: 'Hoja de trabajo'
+      link: '/hoja-trabajo/hoja-trabajo'
+- label: 'Comunidad'
+  items:
+    - label: 'Discord'
+      link: 'https://discord.gg/vpWTZMe9wK'
+    - label: 'Instagram'
+      link: 'https://instagram.com/todoconta'
+    - label: 'Twitter'
+      link: 'https://twitter.com/todoconta'
+    - label: 'Facebook'
+      link: 'https://facebook.com/todoconta'
+    - label: 'Donar 😍'
+      link: 'https://todoconta.com/donar'
