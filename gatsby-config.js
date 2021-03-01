@@ -4,7 +4,7 @@ module.exports = {
     defaultTitle: `Curso de Contabilidad`,
     siteTitleShort: `Curso de Contabilidad`,
     siteDescription: `Aprende contabilidad desde cero, a tu ritmo y completamente gratis`,
-    siteUrl: `https://conta.soy`,
+    siteUrl: `https://curso.conta.soy`,
     siteAuthor: `@iscasur`,
     siteImage: `/banner.png`,
     siteLanguage: `es`,
