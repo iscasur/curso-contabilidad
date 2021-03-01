@@ -18,6 +18,10 @@
       link: '/estructura-financiera/estado-resultados'
     - label: 'Activo, pasivo y capital'
       link: '/estructura-financiera/activo-pasivo-capital'
+    - label: 'Catálogo de cuentas'
+      link: '/estructura-financiera/catalogo-cuentas'
+    - label: 'Depreciación de activos'
+      link: '/estructura-financiera/depreciacion-activos'
 - label: 'Mercancías'
   items:
     - label: 'Procedimiento global'
