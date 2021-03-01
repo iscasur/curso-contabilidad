@@ -1,61 +1,45 @@
-<p align="center">
-  <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/theme-docs.svg" alt="A illustration of file that is the @rocketseat/gatsby-theme-docs logo" width="100">
-</p>
+![Curso de contabilidad](./static/banner.png)
 
-<h2 align="center">
-  Gatsby Starter: Rocket Docs
-</h2>
+## Curso de contabilidad📊
 
-<p align="center">
-  Out of the box Gatsby Starter for creating documentation websites easily and quickly. With support for MDX, code highlight, Analytics, SEO and more 🔥 Using the theme: <a href="https://github.com/Rocketseat/gatsby-themes/tree/master/%40rocketseat/gatsby-theme-docs">@rocketseat/gatsby-theme-docs</a>
-</p>
+Este proyecto nace porque siempre tuve la ilusión de compartir mi conocimiento y apoyarnos entre todos para superarnos como profesionistas y como personas.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PRs-welcome-%238257E6.svg" alt="PRs welcome!" />
+Comenzar curso: https://conta.soy
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%238257E6">
+## Contribuir ⚙
 
-  <a href="https://twitter.com/intent/follow?screen_name=rocketseat">
-    <img src="https://img.shields.io/twitter/follow/rocketseat.svg?label=Follow%20@rocketseat" alt="Follow @rocketseat" />
-  </a>
-</p>
+Si quieres contribuir en este proyecto, lo puedes hacer de dos formas:
 
-## 🚀 Features
+1. Envía tu contenido/contribución por correo electrónico a israel[at]todoconta.com.
+2. Directamente en este proyecto a través de un pull request detallando la mejora o contribución.
 
-- 📝 MDX for docs;
-- 🛣 Yaml-based sidebar navigation;
-- 📱 Responsive and mobile friendly;
-- 🖥 Code highlighting with [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) and [react-live](https://github.com/FormidableLabs/react-live) support;
-- 🥇 SEO (Sitemap, schema.org data, Open Graph and Twitter tags).
-- 📈 Google Analytics support;
-- 📄 Custom docs schema;
-- 🖱 Table of Contents;
-- ⚡️ Offline Support & WebApp Manifest;
-- and much more 🔥
+## Tecnologías 💎
 
-## ⚡️ Getting started
+Este sitio es creado con las siguientes tecnologías y frameworks.
 
-1. Create the website.
+- Gatsby
+- React
+- [Rocket Docs](https://github.com/Rocketseat/gatsby-themes) (Gastby starter)
+
+## Instalar proyecto 💻
+
+1. Descarga este repositorio.
 
    ```sh
-   npx gatsby new rocket-docs https://github.com/rocketseat/gatsby-starter-rocket-docs
+   git clone https://github.com/iscasur/curso-contabilidad.git
    ```
 
-2. Start developing.
+2. Iniciar proyecto en modo desarrollo.
 
    ```sh
-   cd rocket-docs
+   cd curso-contabilidad
    gatsby develop
    ```
 
-3. Are you ready for launch?
+3. Ver proyecto en vivo
 
-   Your site is now running at `http://localhost:8000`
+   El sitio estará corriendo de forma local en `http://localhost:8000`
 
-## 📄 Docs
+## Licencia ✨
 
-Looking for docs? Check our live demo and documentation [website](https://rocketdocs.netlify.com).
-
----
-
-Made with 💜 by Rocketseat :wave: [check our community!](https://discordapp.com/invite/gCRAFhc)
+Este proyecto está bajo la licencia MIT.
