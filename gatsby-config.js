@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
     siteTitle: `Curso de Contabilidad`,
-    defaultTitle: `Curso contable`,
-    siteTitleShort: `Curso contable`,
-    siteDescription: `De cero a contador`,
-    siteUrl: `https://curso.conta.soy`,
+    defaultTitle: `Curso de Contabilidad`,
+    siteTitleShort: `Curso de Contabilidad`,
+    siteDescription: `Aprende contabilidad desde cero, a tu ritmo y completamente gratis`,
+    siteUrl: `https://conta.soy`,
     siteAuthor: `@iscasur`,
     siteImage: `/banner.png`,
     siteLanguage: `es`,
@@ -17,15 +17,15 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/iscasur/gatsby-themes`,
-        baseDir: `examples/gatsby-theme-docs`,
+        githubUrl: `https://github.com/iscasur/curso-contabilidad`,
+        baseDir: `/`,
       },
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Rocketseat Gatsby Themes`,
-        short_name: `RS Gatsby Themes`,
+        name: `Curso de contabilidad`,
+        short_name: `Curso contable`,
         start_url: `/`,
         background_color: `#ffffff`,
         display: `standalone`,
@@ -36,14 +36,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        // trackingId: ``,
+        trackingId: `263824151`,
       },
     },
     `gatsby-plugin-remove-trailing-slashes`,
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://rocketdocs.netlify.com`,
+        siteUrl: `https://curso.conta.soy`,
       },
     },
     `gatsby-plugin-offline`,
