@@ -2,6 +2,8 @@
 
 - label: 'Presentación'
   link: '/'
+- label: 'Bienvenida'
+  link: 'bienvenida'
 - label: 'Generalidades'
   items:
     - label: 'Conceptos básicos'
@@ -22,6 +24,8 @@
       link: '/estructura-financiera/catalogo-cuentas'
     - label: 'Depreciación de activos'
       link: '/estructura-financiera/depreciacion-activos'
+    - label: 'Registro contable del IVA'
+      link: '/estructura-financiera/iva'
 - label: 'Mercancías'
   items:
     - label: 'Procedimiento global'
@@ -52,11 +56,3 @@
   items:
     - label: 'Discord'
       link: 'https://discord.gg/vpWTZMe9wK'
-    - label: 'Instagram'
-      link: 'https://instagram.com/todoconta'
-    - label: 'Twitter'
-      link: 'https://twitter.com/todoconta'
-    - label: 'Facebook'
-      link: 'https://facebook.com/todoconta'
-    - label: 'Donar 😍'
-      link: 'https://todoconta.com/donar'
