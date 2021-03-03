@@ -46,6 +46,14 @@ module.exports = {
         siteUrl: `https://curso.conta.soy`,
       },
     },
+    // Facebook Pixel
+    // https://www.gatsbyjs.com/plugins/gatsby-plugin-facebook-pixel/
+    {
+      resolve: `gatsby-plugin-facebook-pixel`,
+      options: {
+        pixelId: "1055388714947192",
+      },
+    },
     `gatsby-plugin-offline`,
   ],
 };
