@@ -45,7 +45,7 @@
 - label: 'Costo de ventas'
   items:
     - label: 'Métodos de valuación'
-      link: '/costo-ventas/valuacion'
+      link: '/costo-ventas/valuacion-inventarios'
 - label: Hoja de trabajo
   items:
     - label: 'Ajustes'
